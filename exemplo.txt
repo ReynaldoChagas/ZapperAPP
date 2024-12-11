@@ -1,0 +1,5 @@
+Olá, Sr(a) *{Nome}*
+
+Estamos entrando em contato para saber como foi sua experiencia com o produto {Produto}.
+
+Sua opinião é muito importante para nós!!
